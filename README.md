@@ -7,3 +7,8 @@
  - h5py = 3.4.0
  - torch = 1.8.0
  - pyhdf = 0.10.3
+
+### Instructions for using：
+- download all folders into the same folder
+- main.py is the main function
+- set the data path of the MYD02, MYD03, Model, and Norm file in the main.py
